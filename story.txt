@@ -8,3 +8,5 @@ Alex's stress levels were very high. The project required working with his team 
 
 Alex scoured GitHub for anything that resembled his project. As he searched GitHub, time kept on marching on and the due date got closer and closer. With 15 minutes left he found a perfect replica of the project he was looking for. Lucky find.
 "This sounds like a project for Ctrl + C and Ctrl + V" Alex remarked. He copied the code exactly into eclipse and was greeted by dozens of errors. Oh no!
+
+As he quickly tried with all his might to fix the errors crowding his screen, his heart began to race. As he was editing his last error, a sign of completion left his mouth. "I'm done", he exclaimed, "I can finally sumbit 'my' work." But as he looked toward the bottom bar at the clock. It was 10:10, the assignment was closed an d he submited nothing.
